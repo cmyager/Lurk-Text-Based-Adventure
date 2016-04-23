@@ -1,0 +1,9 @@
+CHROM, FIGHT, or MESSG or the 5 letter work for the extensions
+
+--HOW TO--
+I made it for localhost currently.
+have the server and client in the same folder (the server makes a file so the client knows the port
+( I kept having to type new ports so I made a work around )
+run the client (unicurses is required)
+or you can change the port and domain which is at the top, but I think the auto select one is pretty cool!
+
